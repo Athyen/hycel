@@ -1,2 +1,2 @@
-# rasputin
+# hycel
 A discord utility bot.
